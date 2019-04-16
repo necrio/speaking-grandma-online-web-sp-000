@@ -4,7 +4,8 @@ def speak_to_grandma(phrase)
   if "#{phrase}" == "#{phrase}"
     return puts "HUH?! SPEAK UP, SONNY!"
   elsif
-
+    "#{phrase}" == "#{phrase}.upcase"
+    return puts "NO, NOT SINCE 1938!"
 
 
 
