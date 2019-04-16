@@ -1,7 +1,7 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(phrase)
 
-  if "#{phrase}" == "#{phrase}.upcase"
+  if "#{phrase}" == "#{phrase}"
     return puts "HUH?! SPEAK UP, SONNY!"
   elsif
 
@@ -9,10 +9,6 @@ def speak_to_grandma(phrase)
 
 
 end
-
-
-
-
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
