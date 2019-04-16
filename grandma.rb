@@ -11,9 +11,6 @@ def speak_to_grandma(phrase)
     return puts "I LOVE YOU TOO PUMPKIN!"
   end
 
-
-
-
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
